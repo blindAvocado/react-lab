@@ -1,0 +1,27 @@
+.contentContainer {
+  padding: 10px;
+}
+
+.headerTitle {
+  font-size: 24px;
+  margin: 0;
+  margin-bottom: 10px;
+}
+
+.userDataLabel, .userData {
+    font-size: 20px;
+}
+
+.userDataLabel {
+  margin-bottom: 10px;
+  font-weight: 400;
+}
+
+.userData {
+  margin-bottom: 10px;
+  font-weight: 600;
+}
+
+.movieList {
+    margin-top: 10px;
+}
